@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>SolarsStuffed</name>
+	<author>Skullywag</author>
+	<targetVersion>Alpha 11</targetVersion>
+	<description>Changes vanilla solar panels so that they can be made with stuff.
+  
+                             Energy          Health         Flammable         Beauty  
+Steel panel:           1700W           300               20%                 -10
+Silver panel:          1900W           210               20%                 -10
+Gold panel:            2100W          180               20%                 -10
+Plasteel panel:       2300W         840               10%                 -10
+Uranium panel:      2500W          750                 0%                  -10</description>
+</ModMetaData>
