@@ -4,25 +4,27 @@
   <ThingDef Name="BuildingBase" Abstract="True">
     <category>Building</category>
     <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
     <selectable>true</selectable>
     <drawerType>MapMeshAndRealTime</drawerType>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <repairEffect>Repair</repairEffect>
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
     <filthLeaving>BuildingRubble</filthLeaving>
+      <researchPrerequisites>
+      <li>SolarPanels</li>
+    </researchPrerequisites>
   </ThingDef>
 
   <ThingDef ParentName="BuildingBase">
     <defName>SolarGenerator</defName>
     <label>solar generator</label>
-    <thingClass>SolarsStuffed.Building_StuffedPowerPlantSolar</thingClass>
+    <thingClass>Building</thingClass>
     <graphicData>
       <texPath>Things/Building/StuffedSolarCollector</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
       <drawSize>(4,4)</drawSize>
     </graphicData>
-    <altitudeLayer>Waist</altitudeLayer>
+    <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>70</pathCost>
     <fillPercent>0.5</fillPercent>
@@ -45,11 +47,11 @@
     <costStuffCount>25</costStuffCount>
     <costList>
       <Steel>75</Steel>
-      <Components>3</Components>
+      <Component>3</Component>
     </costList>
     <comps>
       <li Class="CompProperties_Power">
-        <compClass>CompPowerTrader</compClass>
+        <compClass>SolarsStuffed.CompPowerPlantSolar</compClass>
         <basePowerConsumption>-1</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
       </li>
@@ -58,7 +60,11 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
-    <designationHotkey>L</designationHotkey>
+    <designationHotkey>Misc5</designationHotkey>
+    <researchPrerequisites>
+      <li>Electricity</li>
+      <li>SolarPanels</li>
+    </researchPrerequisites>
   </ThingDef>
 
 </Buildings>
