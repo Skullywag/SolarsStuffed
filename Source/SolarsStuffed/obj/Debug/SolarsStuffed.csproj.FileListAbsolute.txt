@@ -43,3 +43,13 @@ C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SolarsStuffed\Source\SolarsStuffe
 C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SolarsStuffed\Source\SolarsStuffed\obj\Debug\SolarsStuffed.csprojResolveAssemblyReference.cache
 C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SolarsStuffed\Source\SolarsStuffed\obj\Debug\SolarsStuffed.dll
 C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SolarsStuffed\Source\SolarsStuffed\obj\Debug\SolarsStuffed.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\bin\Debug\SolarsStuffed.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\bin\Debug\SolarsStuffed.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\obj\Debug\SolarsStuffed.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\obj\Debug\SolarsStuffed.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\obj\Debug\SolarsStuffed.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\SolarsStuffed\Source\SolarsStuffed\bin\Debug\UnityEngine.dll

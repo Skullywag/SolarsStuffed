@@ -36,10 +36,10 @@ namespace SolarsStuffed
                             FullSunPower = 1700f;
                             break;
                         case "Plasteel":
-                            FullSunPower = 2500f;
+                            FullSunPower = 2300f;
                             break;
                         case "Uranium":
-                            FullSunPower = 2300f;
+                            FullSunPower = 2500f;
                             break;
                         default:
                             FullSunPower = 1700f;
