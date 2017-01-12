@@ -31,7 +31,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <statBases>
       <MaxHitPoints>300</MaxHitPoints>
-      <WorkToMake>2500</WorkToMake>
+      <WorkToBuild>2500</WorkToBuild>
       <Flammability>1.0</Flammability>
       <Beauty>10</Beauty>
     </statBases>

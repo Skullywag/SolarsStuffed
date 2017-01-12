@@ -46,7 +46,7 @@ namespace SolarsStuffed
                             break;
                     }
                 }
-                return Mathf.Lerp(0f, FullSunPower, SkyManager.CurSkyGlow) * this.RoofedPowerOutputFactor;
+                return Mathf.Lerp(0f, FullSunPower, this.parent.Map.skyManager.CurSkyGlow) * this.RoofedPowerOutputFactor;
             }
         }
 
@@ -59,7 +59,7 @@ namespace SolarsStuffed
                 foreach (IntVec3 current in this.parent.OccupiedRect())
                 {
                     num++;
-                    if (Find.RoofGrid.Roofed(current))
+                    if (this.parent.Map.roofGrid.Roofed(current))
                     {
                         num2++;
                     }
